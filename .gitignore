@@ -3,3 +3,4 @@ dist/
 .agent-relay/
 .trajectories/
 *.log
+node_modules/
